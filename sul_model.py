@@ -1,7 +1,4 @@
-"""SUL core model with a bias-free semantic-unit output projection.
-
-This variant follows the paper's matrix output projection. Input normalization
-and the active gating, aggregation, and matching computations are retained.
+"""SUL core model
 """
 from contextlib import nullcontext, contextmanager
 from functools import wraps

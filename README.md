@@ -8,7 +8,6 @@ We have provided the core code relevant to the methods.
 
 ## Execution Environment
 
-- Python 3
+- Python 3.12
 - PyTorch with CUDA, torchvision, Transformers, NumPy, and Pillow
-- NVIDIA A800 GPU with 80 GB memory, or a CUDA GPU supporting BF16
-- BF16 mixed precision with FP32 loss computation
+- NVIDIA A800 GPU with 80 GB memory

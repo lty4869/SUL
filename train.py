@@ -1,7 +1,5 @@
-"""Core SUL training with a bias-free semantic-unit output projection.
-
+"""Core SUL training.
 Model implementation: casu_model.py. Dataset interface: casu_data.py.
-This version requires a 5,000-image COCO validation split.
 """
 
 import argparse
